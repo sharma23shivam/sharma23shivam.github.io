@@ -1,0 +1,13 @@
+@font-face{
+	font-family: mySpecialFont;
+	src: url('Collen.ttf');
+}
+h1, p{
+	text-align:center;
+	color: blue;
+	font-family:mySpecialFont;
+	font-style: oblique;
+	font-variant: small-caps;
+	font-size: xx-large;
+	line-height: 50%;
+}
